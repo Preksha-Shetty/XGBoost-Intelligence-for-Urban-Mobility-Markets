@@ -5,8 +5,6 @@ Optimizing Driver Revenue & Reducing Marketplace Friction in a 50M+ Record Datas
 Project Overview
 This project addresses the 79.6% take-home pay efficiency gap in the New York City High-Volume For-Hire Vehicle (Uber/Lyft) marketplace. Using a massive dataset of 221 million raw records (aggregated to 1.07 million rows), I developed a predictive intelligence system to help drivers maximize earnings and assist platforms in identifying service gaps.
 
-Because the data scale far exceeds the 1,048,576 row limit of Microsoft Excel, I utilized Python and XGBoost to perform high-scale modeling and visual storytelling.
-
 Key Predictive Objectives
 Objective A: Market Categorization (Classification)
 
